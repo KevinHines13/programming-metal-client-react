@@ -1,1 +1,1 @@
-export const INTEREST_FORM_LINK = "https://google.com";
+export const INTEREST_FORM_LINK = "https://forms.gle/1xrDjGsdLYg8rdb37";

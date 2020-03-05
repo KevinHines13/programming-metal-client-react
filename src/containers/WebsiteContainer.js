@@ -12,8 +12,9 @@ class WebsiteContainer extends React.Component {
                            let path = localStorage.getItem('path');
                            console.log(path)
                            console.log(process.env.PUBLIC_URL)
-                           if (path) {
-                               path = path.split(process.env.PUBLIC_URL)
+                           if (path && process.env.PUBLIC_URL) {
+                               path = path.split(process.env.PUBLIC_URL)[1]
+                               console.log(path)
                                localStorage.removeItem('path');
                                return <Redirect to={path}/>
                            } else {

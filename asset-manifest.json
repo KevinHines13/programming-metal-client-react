@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/programming-metal-client-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/programming-metal-client-react/static/js/main.58e6429b.chunk.js",
+    "main.js.map": "/programming-metal-client-react/static/js/main.58e6429b.chunk.js.map",
+    "runtime-main.js": "/programming-metal-client-react/static/js/runtime-main.0dcc979d.js",
+    "runtime-main.js.map": "/programming-metal-client-react/static/js/runtime-main.0dcc979d.js.map",
+    "static/js/2.d977cb11.chunk.js": "/programming-metal-client-react/static/js/2.d977cb11.chunk.js",
+    "static/js/2.d977cb11.chunk.js.map": "/programming-metal-client-react/static/js/2.d977cb11.chunk.js.map",
+    "index.html": "/programming-metal-client-react/index.html",
+    "precache-manifest.395f4c7647d8225930080216baf9b864.js": "/programming-metal-client-react/precache-manifest.395f4c7647d8225930080216baf9b864.js",
+    "service-worker.js": "/programming-metal-client-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/programming-metal-client-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d977cb11.chunk.js.LICENSE.txt": "/programming-metal-client-react/static/js/2.d977cb11.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/programming-metal-client-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dcc979d.js",
+    "static/js/2.d977cb11.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.58e6429b.chunk.js"
+  ]
+}

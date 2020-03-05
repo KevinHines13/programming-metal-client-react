@@ -10,7 +10,10 @@ class WebsiteContainer extends React.Component {
                        exact
                        render={() => {
                            let path = localStorage.getItem('path');
+                           console.log(path)
+                           console.log(process.env.PUBLIC_URL)
                            if (path) {
+                               path = path.split(process.env.PUBLIC_URL)
                                localStorage.removeItem('path');
                                return <Redirect to={path}/>
                            } else {

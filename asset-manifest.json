@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/programming-metal-client-react/static/css/main.b71d0ae4.chunk.css",
-    "main.js": "/programming-metal-client-react/static/js/main.febec8ed.chunk.js",
-    "main.js.map": "/programming-metal-client-react/static/js/main.febec8ed.chunk.js.map",
+    "main.js": "/programming-metal-client-react/static/js/main.60117cb6.chunk.js",
+    "main.js.map": "/programming-metal-client-react/static/js/main.60117cb6.chunk.js.map",
     "runtime-main.js": "/programming-metal-client-react/static/js/runtime-main.0dcc979d.js",
     "runtime-main.js.map": "/programming-metal-client-react/static/js/runtime-main.0dcc979d.js.map",
     "static/js/2.b4fc3b86.chunk.js": "/programming-metal-client-react/static/js/2.b4fc3b86.chunk.js",
     "static/js/2.b4fc3b86.chunk.js.map": "/programming-metal-client-react/static/js/2.b4fc3b86.chunk.js.map",
     "index.html": "/programming-metal-client-react/index.html",
-    "precache-manifest.27fd9dbcecd4cea6663ab1acb0c57537.js": "/programming-metal-client-react/precache-manifest.27fd9dbcecd4cea6663ab1acb0c57537.js",
+    "precache-manifest.ce96dcd4f2b6c656242a52bd7a2ff239.js": "/programming-metal-client-react/precache-manifest.ce96dcd4f2b6c656242a52bd7a2ff239.js",
     "service-worker.js": "/programming-metal-client-react/service-worker.js",
     "static/css/main.b71d0ae4.chunk.css.map": "/programming-metal-client-react/static/css/main.b71d0ae4.chunk.css.map",
     "static/js/2.b4fc3b86.chunk.js.LICENSE.txt": "/programming-metal-client-react/static/js/2.b4fc3b86.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0dcc979d.js",
     "static/js/2.b4fc3b86.chunk.js",
     "static/css/main.b71d0ae4.chunk.css",
-    "static/js/main.febec8ed.chunk.js"
+    "static/js/main.60117cb6.chunk.js"
   ]
 }

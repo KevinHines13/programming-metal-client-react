@@ -8,7 +8,15 @@ class WebsiteContainer extends React.Component {
             <Router basename={`${process.env.PUBLIC_URL}/`}>
                 <Route path="/"
                        exact
-                       render={() => <Redirect to="/home"/>}
+                       render={() => {
+                           let path = localStorage.getItem('path');
+                           if (path) {
+                               localStorage.removeItem('path');
+                               return <Redirect to={path}/>
+                           } else {
+                               return <Redirect to="/home"/>
+                           }
+                       }}
                 />
 
                 <Route path="/home"

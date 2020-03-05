@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9847198c19cf305455617c1627a0b055",
+    "revision": "fb4f10cb36bd409a4e94664ac2db5a75",
     "url": "/programming-metal-client-react/index.html"
   },
   {
-    "revision": "0e88624d817f1098e8c4",
+    "revision": "d598973c1b307ee7c199",
     "url": "/programming-metal-client-react/static/css/main.b71d0ae4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/programming-metal-client-react/static/js/2.b4fc3b86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e88624d817f1098e8c4",
-    "url": "/programming-metal-client-react/static/js/main.e0aa2e3a.chunk.js"
+    "revision": "d598973c1b307ee7c199",
+    "url": "/programming-metal-client-react/static/js/main.a778568b.chunk.js"
   },
   {
     "revision": "c8da53a04035bef88c74",

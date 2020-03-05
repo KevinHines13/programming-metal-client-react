@@ -5,7 +5,7 @@ import {BrowserRouter as Router, Route, Redirect} from 'react-router-dom';
 class WebsiteContainer extends React.Component {
     render = () =>
         <div>
-            <Router basename={`${process.env.PUBLIC_URL}/`}>
+            <Router basename={process.env.PUBLIC_URL}>
                 <Route path="/"
                        exact
                        render={() => {

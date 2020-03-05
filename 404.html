@@ -8,7 +8,7 @@
 <script>
     const path = window.location.pathname.slice(1);
     localStorage.setItem('path', path);
-    window.location.href='/';
+    window.location.href = process.env.PUBLIC_URL;
 </script>
 </body>
 </html>

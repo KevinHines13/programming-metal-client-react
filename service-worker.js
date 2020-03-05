@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/programming-metal-client-react/precache-manifest.8708bf7db27c92f42a0bcd4eed40cd32.js"
+  "/programming-metal-client-react/precache-manifest.0ee4a070677c6c2fb15d056bca42a4c4.js"
 );
 
 self.addEventListener('message', (event) => {
